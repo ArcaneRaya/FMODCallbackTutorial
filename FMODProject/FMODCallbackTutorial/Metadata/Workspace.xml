@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Workspace" id="{a68d1f9e-dd5d-49ce-9999-fe3cfb8420a7}">
+        <property name="builtBanksOutputDirectory">
+            <value>../../UnityProject/FMODCallbackTutorial/Assets/CORE/Audio/FMODBanks</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{cdc7c28b-04d2-433b-9631-5803eefe9234}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{2a1af689-f8c5-4c89-9ad5-b9b69a2f0328}</destination>
+        </relationship>
+        <relationship name="masterEffectPresetFolder">
+            <destination>{ad361cb7-9957-4adc-8cb9-c3c828e706b5}</destination>
+        </relationship>
+        <relationship name="masterParameterPresetFolder">
+            <destination>{7f3680f8-88ae-49e4-9921-ef5b9289c63e}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{74958e3f-1c4a-4925-af8c-49c464e3dcc9}</destination>
+        </relationship>
+        <relationship name="masterAssetFolder">
+            <destination>{bed5e67f-e229-4f0a-bb17-4be3fdd95d5d}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{8b84d474-2168-427f-9e90-518c14f588ce}</destination>
+        </relationship>
+        <relationship name="platforms">
+            <destination>{0b50d62f-3283-4d9e-bba4-3016c5c6bed8}</destination>
+        </relationship>
+    </object>
+</objects>

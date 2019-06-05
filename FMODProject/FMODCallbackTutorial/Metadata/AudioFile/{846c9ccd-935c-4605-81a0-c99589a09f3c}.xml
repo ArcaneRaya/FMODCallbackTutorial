@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{846c9ccd-935c-4605-81a0-c99589a09f3c}">
+        <property name="assetPath">
+            <value>SFX/VoiceActing/Steve/voice_male_soldier_I've_been_hit_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.1093333333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{bed5e67f-e229-4f0a-bb17-4be3fdd95d5d}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{75b5f956-7130-4cb7-8f82-0e5abc3d0d99}">
+        <property name="assetPath">
+            <value>SFX/UI/Buttons/GenericClick.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.17066666666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{bed5e67f-e229-4f0a-bb17-4be3fdd95d5d}</destination>
+        </relationship>
+    </object>
+</objects>

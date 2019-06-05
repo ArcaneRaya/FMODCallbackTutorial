@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{4800ac29-0f8e-4060-a0f4-5edaa24c0eea}">
+        <property name="assetPath">
+            <value>SFX/VoiceActing/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{bed5e67f-e229-4f0a-bb17-4be3fdd95d5d}</destination>
+        </relationship>
+    </object>
+</objects>
